@@ -5,9 +5,9 @@ It is a single Ruby script that uses a config.yml for configuration.
 
 It is meant to run as a scheduled job via Cron.
 
-## configuration
+## Configuration sample
 
-This is a sample of the configuration file:
+This is a sample of the config.yml file.
 
 ``` yml
 aws_secret_access_key: secret_access_key
