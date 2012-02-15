@@ -1,0 +1,11 @@
+aws_secret_access_key: 
+aws_access_key_id:
+region:
+bucket_name:
+mysql:
+  hostname: 
+  username: 
+  password: 
+lifecycle: 60
+databases:
+  - sample_database
